@@ -25,7 +25,7 @@ int main()
     printf("Enter a number\n");
     scanf("%d", &iValue);
     iRet = CountRange(iValue);
-    printf("Count of digits in range 4-6: %d\n", iRet);
+    printf("Count of digits in between 3 and 7: %d\n", iRet);
 
     return EXIT_SUCCESS;
 }
