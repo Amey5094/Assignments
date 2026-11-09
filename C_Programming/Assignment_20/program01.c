@@ -11,12 +11,10 @@ void Pattern(int iRows, int iCols)
         {
             if (j == iCols - i + 1)
             {
-
                 printf("#\t");
             }
             else
             {
-
                 printf("*\t");
             }
         }
